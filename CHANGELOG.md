@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- handle null pointer exception
-- Updated: 2026-10-21T13:00:01.501Z
+- add integration tests for API endpoints
+- Updated: 2026-10-22T13:00:01.442Z
