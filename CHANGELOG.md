@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add integration tests for API endpoints
-- Updated: 2026-10-22T13:00:01.442Z
+- resolve edge case in input validation
+- Updated: 2026-10-27T13:00:01.138Z
