@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-10-27T13:00:01.138Z
+Last updated: 2026-10-29T13:00:01.065Z
 
 ## Progress
 
-- handle timeout errors in HTTP client
+- add integration tests for API endpoints
