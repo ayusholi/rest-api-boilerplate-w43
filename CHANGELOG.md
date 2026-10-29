@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- resolve edge case in input validation
-- Updated: 2026-10-27T13:00:01.138Z
+- add end-to-end test suite
+- Updated: 2026-10-29T13:00:01.065Z
